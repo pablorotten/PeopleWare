@@ -4,7 +4,7 @@
 
 Small project for testing and learning Spring + Hibernate
 
-Incomplete tasks
+## Incomplete tasks
 
 Connecting Applicant with Offer
 
